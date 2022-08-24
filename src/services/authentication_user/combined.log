@@ -1,0 +1,457 @@
+{"level":"error","message":"Error initializing datasource Data type \"Object\" in \"User.firstName\" is not supported by \"mysql\" database.","service":"user-service","stack":"DataTypeNotSupportedError: Data type \"Object\" in \"User.firstName\" is not supported by \"mysql\" database.\n    at C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\metadata-builder\\EntityMetadataValidator.ts:131:27\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validate (C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\metadata-builder\\EntityMetadataValidator.ts:126:36)\n    at C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\metadata-builder\\EntityMetadataValidator.ts:43:18\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validateMany (C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\metadata-builder\\EntityMetadataValidator.ts:42:25)\n    at DataSource.buildMetadatas (C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\data-source\\DataSource.ts:685:33)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async DataSource.initialize (C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\data-source\\DataSource.ts:242:13)"}
+{"level":"info","message":"Server is listening on port : ","service":"user-service"}
+{"level":"error","message":"Error initializing datasource Data type \"Object\" in \"User.firstName\" is not supported by \"mysql\" database.","service":"user-service","stack":"DataTypeNotSupportedError: Data type \"Object\" in \"User.firstName\" is not supported by \"mysql\" database.\n    at C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\metadata-builder\\EntityMetadataValidator.ts:131:27\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validate (C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\metadata-builder\\EntityMetadataValidator.ts:126:36)\n    at C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\metadata-builder\\EntityMetadataValidator.ts:43:18\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validateMany (C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\metadata-builder\\EntityMetadataValidator.ts:42:25)\n    at DataSource.buildMetadatas (C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\data-source\\DataSource.ts:685:33)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async DataSource.initialize (C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\data-source\\DataSource.ts:242:13)"}
+{"level":"info","message":"Server is listening on port : ","service":"user-service"}
+{"level":"error","message":"Error initializing datasource Data type \"Object\" in \"User.dateOfBirth\" is not supported by \"mysql\" database.","service":"user-service","stack":"DataTypeNotSupportedError: Data type \"Object\" in \"User.dateOfBirth\" is not supported by \"mysql\" database.\n    at C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\metadata-builder\\EntityMetadataValidator.ts:131:27\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validate (C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\metadata-builder\\EntityMetadataValidator.ts:126:36)\n    at C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\metadata-builder\\EntityMetadataValidator.ts:43:18\n    at Array.forEach (<anonymous>)\n    at EntityMetadataValidator.validateMany (C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\metadata-builder\\EntityMetadataValidator.ts:42:25)\n    at DataSource.buildMetadatas (C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\data-source\\DataSource.ts:685:33)\n    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n    at async DataSource.initialize (C:\\Users\\HP\\Documents\\Building_workspace\\Dorcpay\\authentication\\src\\data-source\\DataSource.ts:242:13)"}
+{"level":"info","message":"Server is listening on port : ","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : ","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized"}
+{"level":"info","message":"Server is listening on port : 8081"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Called","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"info","message":"Data source has been initialized","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
+{"level":"error","message":"Error initializing datasource : QueryFailedError: ER_DUP_ENTRY: Duplicate entry '2147483647' for key 'IDX_8e1f623798118e629b46a9e629'","service":"user-service"}
+{"level":"info","message":"Server is listening on port : 8081","service":"user-service"}
